@@ -1,17 +1,16 @@
-/*  your css code here. If applicable */
-.testimonial-container { 
-	background-color: #f5f5f5; 
-	padding: 20px;
+.testimonial-container {
+    background-color: #f5f5f5;
+    padding: 20px;
 }
 
-.testimonial { 
-	padding: 15px;
-	border: 1px solid #f5f5f5; 
-	background-color: #f5f5f5; 
-	border:1px solid black;
+.testimonial {
+    padding: 15px;
+    border: 1px solid #f5f5f5;
+    background-color: #f5f5f5;
+    border: 1px solid black;
 }
 
-.testimonial-author { 
-	text-align: right; 
-	font-style: italic; 
+.testimonial-author {
+    text-align: right;
+    font-style: italic;
 }
